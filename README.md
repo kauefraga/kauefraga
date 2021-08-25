@@ -1,5 +1,5 @@
 ## Olá mundo!
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <a href="https://www.github.com/kauefraga" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauefraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauefraga&layout=compact&langs_count=7&theme=tokyonight">
