@@ -20,7 +20,7 @@
  
 <div> 
  <a href="https://discord.gg/wDYcJMbzhp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"</a> 
-  <a href="https://www.linkedin.com/in/kauê-fraga-rodrigues-3430a8215/" target="_blank"><img href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kauê-fraga-rodrigues-3430a8215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:kauefragarodrigues456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/kauefraga/kauefraga/blob/output/github-contribution-grid-snake.svg)
