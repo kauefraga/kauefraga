@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hii! I'm <a href="https://www.github.com/kauefraga">Kauê</a> and i am JavaScript enthusiast ✨<h1>
+<h1 align="center">✨ Hii! My name is <a href="https://www.github.com/kauefraga">Kauê</a> and i am JavaScript enthusiast ✨<h1>
 
 <div align="center"><br/>
   <img 
