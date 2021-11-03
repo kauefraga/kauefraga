@@ -3,11 +3,11 @@
 <div align="center"><br/>
   <img 
     height="150em"
-    src="https://github-readme-stats.vercel.app/api?username=kauefraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=0B2D59&bg_color=0B2D59,0D2D4C,17366F&title_color=FFF048&icon_color=BEFF27"
+    src="https://github-readme-stats.vercel.app/api?username=kauefraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=0B2D59&bg_color=0B2D59&title_color=FFF048&icon_color=BEFF27"
   />
   <img
     height="150em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauefraga&layout=compact&langs_count=7&theme=tokyonight&border_color=0B2D59&bg_color=17366F,0D2D4C,0B2D59&title_color=FFF048"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauefraga&layout=compact&langs_count=7&theme=tokyonight&border_color=0B2D59&bg_color=0B2D59&title_color=FFF048"
   />
 </div>
   
