@@ -6,8 +6,7 @@
   <a href='https://github.com/kauefraga'>
   <img
     height='180em'
-    src='
-    https://github-readme-stats.vercel.app/api?username=kauefraga&theme=tokyonight&count_private=true'
+    src='https://github-readme-stats.vercel.app/api?username=kauefraga&theme=tokyonight&count_private=true'
   />
   <img
     height='180em'
