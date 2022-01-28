@@ -3,7 +3,7 @@
 <h1>
 
 <div align='center'>
-  <a href='https://github.com/kauefraga'>
+  <a href='https://github.com/kauefraga' style='text-decoration: none;'>
   <img
     height='180em'
     src='https://github-readme-stats.vercel.app/api?username=kauefraga&theme=tokyonight&count_private=true'
@@ -16,7 +16,7 @@
 
 <br />
 
-<div align='center' style='display: inline_block'>
+<div id= 'knowledge ' align='center' style='display: inline_block'>
   <img align='center' alt='kaue-ts' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg' />
   <img align='center' alt='kaue-nodejs' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg' />
   <img align='center' alt='kaue-expressjs' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' />
@@ -27,22 +27,48 @@
   <img align='center' alt='kaue-fastapi' height='35' width='45' src='https://raw.githubusercontent.com/kauefraga/kauefraga/main/assets/fastapi-icon.svg' />
   <img align='center' alt='kaue-heroku' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg' />
   <img align='center' alt='kaue-yarn' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg' />
-  <img align='center' alt='kaue-bash' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg' />
+  <img align='center' alt='kaue-bash' height='35' width='45' src='https://raw.githubusercontent.com/kauefraga/kauefraga/main/assets/bash-icon.svg' />
 </div>
 
 ###
 
 <div align='center'>
-  <a href='https://discord.gg/wDYcJMbzhp' target='_blank' rel='noopener norefferer'>
+  <a href='https://discord.gg/wDYcJMbzhp' style='text-decoration: none;' target='_blank' rel='noopener norefferer'>
     <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' />
   </a>
-  <a href='https://www.linkedin.com/in/kauefraga' target='_blank' rel='noopener norefferer'>
+  <a href='https://linkedin.com/in/kauefraga' style='text-decoration: none;' target='_blank' rel='noopener norefferer'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
   </a>
-  <a href='mailto:kauefragarodrigues456@gmail.com' target='_blank' rel='noopener norefferer'>
+  <a href='mailto:kauefragarodrigues456@gmail.com' style='text-decoration: none;' target='_blank' rel='noopener norefferer'>
     <img src='https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue' />
   </a>
 
-  ![Snake animation](https://github.com/kauefraga/kauefraga/blob/output/github-contribution-grid-snake.svg)
-
+  <img alt='Snake animation' src='https://github.com/kauefraga/kauefraga/blob/output/github-contribution-grid-snake.svg' />
 </div>
+
+<h1>💫 About me</h1>
+
+<p>
+  🔭 I’m currently self-taught
+</p>
+
+<p>
+  📖 I have experience with
+  <a href= '#knowledge'>☝️☝️</a>
+</p>
+
+<p>
+  🌱 I’m currently learning:
+  <a href= 'https://heroku.com' target='_blank' rel='noopener norefferer'>
+    Heroku
+  </a>
+  <->
+  <a href= 'https://fastapi.tiangolo.com' target='_blank' rel='noopener norefferer'>
+    FastAPI
+  </a>
+</p>
+
+💬 Ask me about ??????
+
+⚡ Fun fact ??????
+
