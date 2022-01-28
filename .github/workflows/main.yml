@@ -1,4 +1,4 @@
-name: Generate Datas
+name: update count of commits
 
 on:
   schedule: # execute every 12 hours
