@@ -45,30 +45,3 @@
 
   <img alt='Snake animation' src='https://github.com/kauefraga/kauefraga/blob/output/github-contribution-grid-snake.svg' />
 </div>
-
-<h1>💫 About me</h1>
-
-<p>
-  🔭 I’m currently self-taught
-</p>
-
-<p>
-  📖 I have experience with
-  <a href= '#knowledge'>☝️☝️</a>
-</p>
-
-<p>
-  🌱 I’m currently learning:
-  <a href= 'https://heroku.com' target='_blank' rel='noopener norefferer'>
-    Heroku
-  </a>
-  <->
-  <a href= 'https://fastapi.tiangolo.com' target='_blank' rel='noopener norefferer'>
-    FastAPI
-  </a>
-</p>
-
-💬 Ask me about ??????
-
-⚡ Fun fact ??????
-
