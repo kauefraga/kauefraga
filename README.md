@@ -2,7 +2,7 @@
   ✨ Hii! My name is <a href='https://github.com/kauefraga'>Kauê</a> and i am JavaScript enthusiast ✨
 <h1>
 
-<div align='center'>
+<div align='center' style='text-decoration: none;'>
   <a href='https://github.com/kauefraga' style='text-decoration: none;'>
   <img
     height='180em'
@@ -16,7 +16,7 @@
 
 <br />
 
-<div id= 'knowledge ' align='center' style='display: inline_block'>
+<div align='center' style='display: inline_block; text-decoration: none;'>
   <img align='center' alt='kaue-ts' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg' />
   <img align='center' alt='kaue-nodejs' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg' />
   <img align='center' alt='kaue-expressjs' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' />
