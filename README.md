@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Open Source Community
 - 🌱 I’m currently learning: [Jest](https://jestjs.io/)
 - ⚡ Fun fact: i prefer milk coffee than tradicional
-- Hobbies: Automation with Python, Play Osu!
+- ☕ Hobbies: Automation with Python, Play Osu!
   
 <div align='center' style='display: inline_block;'>
   <h1>💻 Tech Stack 💻</h1>
