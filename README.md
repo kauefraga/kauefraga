@@ -5,9 +5,12 @@
 ###  💫 About me
 - 🔭 I’m currently self-taught
 - 👯 I’m looking to collaborate on Open Source Community
-- 🌱 I’m currently learning: [Jest](https://jestjs.io/)
+- 🌱 I’m currently learning: [Go](https://go.dev)
 - ⚡ Fun fact: i prefer milk coffee than tradicional
-- ☕ Hobbies: Automation with Python, Play Osu!
+- ☕ Hobbies:
+  - Automations with Python, CLIs with node/go
+  - Play Osu!, Rocket League, Warframe...
+  - Try to install any distro (The last ones were arch, manjaro, kubuntu...)
   
 <div align='center' style='display: inline_block;'>
   <h1>💻 Tech Stack 💻</h1>
@@ -22,8 +25,7 @@
   <img align='center' alt='kaue-mongodb' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg' />
   <img align='center' alt='kaue-python' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' />
   <img align='center' alt='kaue-fastapi' height='35' width='45' src='https://raw.githubusercontent.com/kauefraga/kauefraga/main/assets/fastapi-icon.svg' />
-  <img align='center' alt='kaue-heroku' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg' />
-  <img align='center' alt='kaue-yarn' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg' />
+  <img align='center' alt='kaue-go' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg' />
 </div>
   
 <br />
