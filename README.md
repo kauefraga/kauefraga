@@ -4,8 +4,7 @@
 
 ###  💫 About me
 - 🔭 I’m currently self-taught
-- 👯 I’m looking to collaborate on Open Source Community
-- 🌱 I’m currently learning: [Go](https://go.dev)
+- 🌱 I’m learning: [Go](https://go.dev)
 - 😐 I have a **love/hate** relationship with Programming
 - ⚡ Fun fact: i prefer milk coffee than tradicional
 - ☕ Hobbies:
@@ -15,12 +14,13 @@
 
 <!-- Start repos section -->
 <details>
-<summary><b> Projects/repos </b></summary>
+<summary><b>🗃 Projects/repos</b></summary>
+<br>
 <table>
   <thead>
     <tr>
       <th>Name</th>
-      <th>Skills used</th>
+      <th>Techs used</th>
       <th>Description</th>
     </tr>
   </thead>
@@ -44,7 +44,17 @@
 </table>
 </details>
 <!-- End repos section -->
+
+<details> 
+ <summary><b>🤖 Some cool stats</b></summary>
+<br>
   
+<!--START_SECTION:waka-->  
+
+<!--END_SECTION:waka-->
+
+</details>
+
 <div align='center' style='display: inline_block;'>
   <h1>💻 Tech Stack 💻</h1>
   
