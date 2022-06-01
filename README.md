@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td><a href='https://github.com/kauefraga/weather-cli'>Weather CLI</a></td>
-      <td>Node/Typescript</td>
+      <td>Node/Typescript and Weather API</td>
       <td>☀ A CLI made to help you to find your wanted weather.</td>
     </tr>
     <tr>
@@ -64,6 +64,11 @@
       <td><a href='https://fastapi--app.herokuapp.com'>Hello World (FastAPI)</a></td>
       <td>Python, FastAPI and Heroku</td>
       <td>🌎 A simple app made to learn FastAPI and Heroku</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/kauefraga/go-viacep-cli'>Viacep CLI</a></td>
+      <td>Go and Viacep API</td>
+      <td>🗺 A CLI made to help you to find your wanted location. (At Brasil)</td>
     </tr>
   </tbody>
 </table>
