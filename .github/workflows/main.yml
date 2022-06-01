@@ -1,11 +1,19 @@
-name: update count of commits
+name: O Melhor
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */24 * * *"
+    - cron: "0 0 * * 1-5"
   workflow_dispatch:
 
 jobs:
+  update-readme:
+      name: Update Readme with Metrics
+      runs-on: ubuntu-latest
+      steps:
+        - uses: anmol098/waka-readme-stats@master
+          with:
+            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+            GH_TOKEN: ${{ secrets.GH_TOKEN }}
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
