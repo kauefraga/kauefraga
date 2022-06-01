@@ -6,11 +6,44 @@
 - 🔭 I’m currently self-taught
 - 👯 I’m looking to collaborate on Open Source Community
 - 🌱 I’m currently learning: [Go](https://go.dev)
+- 😐 I have a **love/hate** relationship with Programming
 - ⚡ Fun fact: i prefer milk coffee than tradicional
 - ☕ Hobbies:
-  - Automations with Python, CLIs with node/go
+  - Automations with **Python**, CLIs with **Node/Go**
   - Play Osu!, Rocket League, Warframe...
   - Try to install any distro (The last ones were arch, manjaro, kubuntu...)
+
+<!-- Start repos section -->
+<details>
+<summary><b> Projects/repos </b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/kauefraga/weather-cli'>Weather CLI</a></td>
+      <td>Node/Typescript</td>
+      <td>☀ A CLI made to help you to find your wanted weather.</td>
+    </tr>
+    <tr>
+      <td><a href='https://todo--list.vercel.app/'>To-do</a></td>
+      <td>NextJS, ChakraUI and Vercel</td>
+      <td>📝 A TO-DO app</td>
+    </tr>
+    <tr>
+      <td><a href='fastapi--app.herokuapp.com'>Hello World (FastAPI)</a></td>
+      <td>Python, FastAPI and Heroku</td>
+      <td>🌎 A simple app made to learn FastAPI and Heroku</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<!-- End repos section -->
   
 <div align='center' style='display: inline_block;'>
   <h1>💻 Tech Stack 💻</h1>
