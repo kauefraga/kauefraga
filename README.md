@@ -26,17 +26,42 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://github.com/kauefraga/weather-cli'>Weather CLI</a></td>
-      <td>Node/Typescript</td>
-      <td>☀ A CLI made to help you to find your wanted weather.</td>
-    </tr>
-    <tr>
       <td><a href='https://todo--list.vercel.app/'>To-do</a></td>
       <td>NextJS, ChakraUI and Vercel</td>
       <td>📝 A TO-DO app</td>
     </tr>
     <tr>
-      <td><a href='fastapi--app.herokuapp.com'>Hello World (FastAPI)</a></td>
+      <td><a href='https://developercoffee.vercel.app'>Dev Coffee</a></td>
+      <td>NextJS, ChakraUI and ESLint</td>
+      <td>☕ Every developer need some coffee to be more professional</td>
+    </tr>
+    <tr>
+      <td><a href='https://kauefraga.vercel.app'>kauefraga.com</a></td>
+      <td>NextJS, ChakraUI and MongoDb</td>
+      <td>👨‍💻 This is my pessoal web site</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/kauefraga/weather-cli'>Weather CLI</a></td>
+      <td>Node/Typescript</td>
+      <td>☀ A CLI made to help you to find your wanted weather.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/kauefraga/server-structure'>Server Structure</a></td>
+      <td>Node/TS, Express and Prisma</td>
+      <td>🏗 My "template" for server with express</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/kauefraga/dowhilechallenge'>Do While (@rocketseat)</a></td>
+      <td>Node/TS, Bcrypt and JWT</td>
+      <td>🚀 Implementation of ´register/login´ routes (API REST)</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/kauefraga/binarysearch-and-quicksort'>Binary Search (Algorithm)</a></td>
+      <td>Node/TS and Python</td>
+      <td>🔎 Implementation of binary search in JavaScript and Python</td>
+    </tr>
+    <tr>
+      <td><a href='https://fastapi--app.herokuapp.com'>Hello World (FastAPI)</a></td>
       <td>Python, FastAPI and Heroku</td>
       <td>🌎 A simple app made to learn FastAPI and Heroku</td>
     </tr>
