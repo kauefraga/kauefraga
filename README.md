@@ -75,16 +75,6 @@
 </details>
 <!-- End repos section -->
 
-<details> 
- <summary><b>🤖 Some cool stats</b></summary>
-<br>
-  
-<!--START_SECTION:waka-->  
-
-<!--END_SECTION:waka-->
-
-</details>
-
 <div align='center' style='display: inline_block;'>
   <h1>💻 Tech Stack 💻</h1>
   
