@@ -4,7 +4,7 @@
 
 ###  💫 About me
 - 🔭 I’m currently self-taught
-- 🌱 I’m learning: [Go](https://go.dev)
+- 🌱 I’m learning: [Go](https://go.dev), tests, good practices and so on...
 - 😐 I have a **love/hate** relationship with Programming
 - ⚡ Fun fact: i prefer milk coffee than tradicional
 - ☕ Hobbies:
@@ -54,6 +54,11 @@
       <td><a href='https://github.com/kauefraga/dowhilechallenge'>Do While (@rocketseat)</a></td>
       <td>Node/TS, Bcrypt and JWT</td>
       <td>🚀 Implementation of ´register/login´ routes (API REST)</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/kauefraga/zssn'>ZSSN</a></td>
+      <td>Node/TS, Express, Prisma, Tests...</td>
+      <td>🧟 Zombie Survival Social Network (API Rest)</td>
     </tr>
     <tr>
       <td><a href='https://github.com/kauefraga/binarysearch-and-quicksort'>Binary Search (Algorithm)</a></td>
