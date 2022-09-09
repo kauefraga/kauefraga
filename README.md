@@ -2,15 +2,17 @@
   ~ ✨ Hii! My name is <a href='https://github.com/kauefraga'>Kauê</a> and i am Backend Developer ✨ ~
 </h1>
 
-###  💫 About me
+### 💫 About me
+
 - 🔭 I’m currently self-taught
-- 🌱 I’m learning: [Go](https://go.dev), tests, good practices and so on...
+- 🌱 I’m learning: mastering [Typescript](https://www.typescriptlang.org), tests, good practices and so on...
 - 😐 I have a **love/hate** relationship with Programming
 - ⚡ Fun fact: i prefer milk coffee than tradicional
 - ☕ Hobbies:
   - Automations with **Python**, CLIs with **Node/Go**
   - Play Osu!, Rocket League, Warframe...
-  - Try to install any distro (The last ones were arch, manjaro, kubuntu...)
+  - Try to install any distro (The last ones were archcraft, arch, manjaro, kubuntu...)
+  - Trying to put something out of the box
 
 <!-- Start repos section -->
 <details>
@@ -37,7 +39,7 @@
     </tr>
     <tr>
       <td><a href='https://kauefraga.vercel.app'>kauefraga.com</a></td>
-      <td>NextJS, ChakraUI and MongoDb</td>
+      <td>NextJS, TailwindCSS</td>
       <td>👨‍💻 This is my pessoal web site</td>
     </tr>
     <tr>
@@ -54,6 +56,11 @@
       <td><a href='https://github.com/kauefraga/dowhilechallenge'>Do While (@rocketseat)</a></td>
       <td>Node/TS, Bcrypt and JWT</td>
       <td>🚀 Implementation of ´register/login´ routes (API REST)</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/kauefraga/crud-graphql'>CRUD GraphQL</a></td>
+      <td>Node/TS, GraphQL, best practices...</td>
+      <td>🌠 Simple CRUD to try graphql</td>
     </tr>
     <tr>
       <td><a href='https://github.com/kauefraga/zssn'>ZSSN</a></td>
@@ -82,9 +89,9 @@
 
 <div align='center' style='display: inline_block;'>
   <h1>💻 Tech Stack 💻</h1>
-  
+
   <br />
-  
+
   <img align='center' alt='kaue-ts' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg' />
   <img align='center' alt='kaue-nodejs' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg' />
   <img align='center' alt='kaue-expressjs' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' />
@@ -95,7 +102,7 @@
   <img align='center' alt='kaue-fastapi' height='35' width='45' src='https://raw.githubusercontent.com/kauefraga/kauefraga/main/assets/fastapi-icon.svg' />
   <img align='center' alt='kaue-go' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg' />
 </div>
-  
+
 <br />
 
 <div align='center'>
