@@ -27,6 +27,16 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href='https://npm.im/quicky-server'>Quicky Server</a></td>
+      <td>Node/TS, built-in modules, Axios...</td>
+      <td>☂ A fast json server built with native libraries as well as possible. Inspired in json-server.</td>
+    </tr>
+    <tr>
+      <td><a href='https://crud-rest.onrender.com/v1'>CRUD Restful</a></td>
+      <td>Node/TS, CUID, Express, Express-rate-limit and Vitest</td>
+      <td>🔮 A restful CRUD to put some effort</td>
+    </tr>
     <tr>
       <td><a href='https://todo--list.vercel.app/'>To-do</a></td>
       <td>NextJS, ChakraUI and Vercel</td>
@@ -49,7 +59,7 @@
     </tr>
     <tr>
       <td><a href='https://github.com/kauefraga/server-structure'>Server Structure</a></td>
-      <td>Node/TS, Express and Prisma</td>
+      <td>Node/TS, Express and api best practices</td>
       <td>🏗 My "template" for server with express</td>
     </tr>
     <tr>
