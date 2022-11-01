@@ -27,6 +27,16 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href='https://github.com/kauefraga/learning-redis'>Learning Redis</a></td>
+      <td>Node/TS, IORedis and CUID</td>
+      <td>🔴 Trying out key-value using Redis</td>
+    </tr>
+     <tr>
+      <td><a href='https://github.com/kauefraga/learning-postgres'>Learning Postgres</a></td>
+      <td>Node/TS and Postgres</td>
+      <td>🐘 Trying out SQL using postgres "bare metal" (without orm)</td>
+    </tr>
      <tr>
       <td><a href='https://npm.im/quicky-server'>Quicky Server</a></td>
       <td>Node/TS, built-in modules, Axios...</td>
