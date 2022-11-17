@@ -11,7 +11,7 @@
 - ☕ Hobbies:
   - Automations with **Python**, CLIs with **Node/Go**
   - Play Osu!, Rocket League, Warframe...
-  - Try to install any distro (The last ones were archcraft, arch, manjaro, kubuntu...)
+  - Try to install any distro (The last ones were kali, archcraft, arch, manjaro...)
   - Trying to put something out of the box
 
 <!-- Start repos section -->
