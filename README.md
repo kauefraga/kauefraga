@@ -28,6 +28,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href='https://github.com/kauefraga/learning-rust'>Learning Rust</a></td>
+      <td>Rust</td>
+      <td>🦀 Trying out new language using Rust</td>
+    </tr>
+    <tr>
       <td><a href='https://github.com/kauefraga/learning-redis'>Learning Redis</a></td>
       <td>Node/TS, IORedis and CUID</td>
       <td>🔴 Trying out key-value using Redis</td>
