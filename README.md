@@ -117,15 +117,16 @@
 
   <br />
 
-  <img align='center' alt='kaue-ts' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg' />
-  <img align='center' alt='kaue-nodejs' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg' />
-  <img align='center' alt='kaue-expressjs' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' />
-  <img align='center' alt='kaue-nextjs' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' />
-  <img align='center' alt='kaue-reactjs' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' />
-  <img align='center' alt='kaue-mongodb' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg' />
-  <img align='center' alt='kaue-python' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' />
-  <img align='center' alt='kaue-fastapi' height='35' width='45' src='https://raw.githubusercontent.com/kauefraga/kauefraga/main/assets/fastapi-icon.svg' />
-  <img align='center' alt='kaue-go' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg' />
+  <img align='center' alt='ts icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg' />
+  <img align='center' alt='nodejs icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg' />
+  <img align='center' alt='expressjs icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' />
+  <img align='center' alt='nextjs icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' />
+  <img align='center' alt='reactjs icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' />
+  <img align='center' alt='mongodb icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg' />
+  <img align='center' alt='postgresql icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg' />
+  <img align='center' alt='docker icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg' />
+  <img align='center' alt='python icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' />
+  <img align='center' alt='rust icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg' />
 </div>
 
 <br />
