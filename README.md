@@ -28,6 +28,16 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href='https://github.com/kauefraga/quicky-project'>Quicky Project</a></td>
+      <td>Rust, clap and console</td>
+      <td>⚡ Set up a TS project as fast as you want</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/kauefraga/quicky-monitor'>Quicky Monitor</a></td>
+      <td>Rust, sysinfo and termion</td>
+      <td>🔥 Blazingly fast system monitoring with Rust</td>
+    </tr>
+    <tr>
       <td><a href='https://github.com/kauefraga/learning-rust'>Learning Rust</a></td>
       <td>Rust</td>
       <td>🦀 Trying out new language using Rust</td>
