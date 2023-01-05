@@ -1,5 +1,5 @@
 <h1 align="center">
-  ~ ✨ Hii! My name is <a href='https://github.com/kauefraga'>Kauê</a> and i am Backend Developer ✨ ~
+  💙 Hii! My name is <a href='https://github.com/kauefraga'>Kauê</a> and i am Backend Developer 💙
 </h1>
 
 ### 💫 About me
@@ -11,6 +11,7 @@
 - ☕ Hobbies:
   - Automations with **Python**, CLIs with **Node/Go**
   - Play Osu!, Rocket League, Warframe...
+  - Learn music lyrics and sing as crazy as i can while i groove (try to dance)
   - Try to install any distro (The last ones were kali, archcraft, arch, manjaro...)
   - Trying to put something out of the box
 
@@ -131,6 +132,7 @@
   <img align='center' alt='nodejs icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg' />
   <img align='center' alt='expressjs icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' />
   <img align='center' alt='nextjs icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' />
+  <img align='center' alt='tailwindcss icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg' />
   <img align='center' alt='reactjs icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' />
   <img align='center' alt='mongodb icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg' />
   <img align='center' alt='postgresql icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg' />
