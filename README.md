@@ -14,6 +14,10 @@
   - Learn music lyrics and sing as crazy as i can while i groove (try to dance)
   - Try to install any distro (The last ones were kali, archcraft, arch, manjaro...)
   - Trying to put something out of the box
+- 🧙‍ Technologies: 
+  - JavaScript(ts): Node, Pnpm, Express, Next, TailwindCSS, ChakraUI, Vitest, Axios, Eslint, Date-fns, Commander, Yargs, PostgreSQL, SQLite and Prisma
+  - Python: Poetry, FastAPI, Httpx, Rich, Pendulum, Flask, Peewee and SQLite
+  - no tag: c++, docker, rust, postgresql, redis, mongodb, CUID, Vercel, Render
 
 <!-- Start repos section -->
 <details>
