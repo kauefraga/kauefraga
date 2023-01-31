@@ -4,8 +4,7 @@
 
 ### 💫 About me
 
-- 🔭 I’m currently self-taught
-- 🌱 I’m learning: learning [Rust](https://rust-lang.org), mastering [Typescript](https://www.typescriptlang.org), tests, good practices and so on...
+- 🌱 I’m learning: learning [`Rust`](https://rust-lang.org), mastering [`Typescript`](https://www.typescriptlang.org), tests, good practices and so on...
 - 😐 I have a **love/hate** relationship with Programming
 - ⚡ Fun fact: i prefer milk coffee than tradicional
 - ☕ Hobbies:
