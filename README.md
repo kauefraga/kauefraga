@@ -4,7 +4,7 @@
 
 ### 💫 About me
 
-- 🌱 I’m learning: learning [`Rust`](https://rust-lang.org), mastering [`Typescript`](https://www.typescriptlang.org), tests, good practices and so on...
+- 🌱 I’m learning: learning [`Python`](https://www.python.org), mastering [`Typescript`](https://www.typescriptlang.org), tests, good practices and so on...
 - 😐 I have a **love/hate** relationship with Programming
 - ⚡ Fun fact: i prefer milk coffee than tradicional
 - ☕ Hobbies:
@@ -32,8 +32,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://github.com/kauefraga/quicky-project'>Quicky Project</a></td>
-      <td>Rust, clap and console</td>
+      <td><a href='https://github.com/kauefraga/quicky-pro
+        ject'>Quicky Project</a></td>
+      <td>Python, Click, Rich...</td>
       <td>⚡ Set up a TS project as fast as you want</td>
     </tr>
     <tr>
