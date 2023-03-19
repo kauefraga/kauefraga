@@ -8,7 +8,7 @@
 - 😐 I have a **love/hate** relationship with Programming
 - ⚡ Fun fact: i prefer milk coffee than tradicional
 - ☕ Hobbies:
-  - Automations with **Python**, CLIs with **Node/Go**
+  - Automations with **Python**, CLIs with **DOS/Pwsh/Node/Python**
   - Play Osu!, Rocket League, Warframe...
   - Learn music lyrics and sing as crazy as i can while i groove (try to dance)
   - Try to install any distro (The last ones were kali, archcraft, arch, manjaro...)
