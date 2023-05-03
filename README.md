@@ -2,21 +2,27 @@
   💙 Hii! My name is <a href='https://github.com/kauefraga'>Kauê</a> and i am Backend Developer 💙
 </h1>
 
-### 💫 About me
+### 💫 Curiosities
 
 - 🌱 I’m learning: learning [`Python`](https://www.python.org), mastering [`Typescript`](https://www.typescriptlang.org), tests, good practices and so on...
 - 😐 I have a **love/hate** relationship with Programming
 - ⚡ Fun fact: i prefer milk coffee than tradicional
-- ☕ Hobbies:
-  - Automations with **Python**, CLIs with **DOS/Pwsh/Node/Python**
-  - Play Osu!, Rocket League, Warframe...
+- ☕ Hobbies
+  - I like to automate stuff (generally with _Python_), CLIs that help me with something (_DOS/Pwsh/Node/Python_)
+  - I really enjoy to play Osu! (131h), Rocket League (575h), Warframe (582h)...
   - Learn music lyrics and sing as crazy as i can while i groove (try to dance)
   - Try to install any distro (The last ones were kali, archcraft, arch, manjaro...)
   - Trying to put something out of the box
-- 🧙‍ Technologies: 
-  - JavaScript(ts): Node, Pnpm, Express, Next, TailwindCSS, ChakraUI, Vitest, Axios, Eslint, Date-fns, Commander, Yargs, PostgreSQL, SQLite and Prisma
+- 🧙‍ Technologies/libraries
+  - JavaScript(ts): Node, Pnpm, Express, Fastify, Next, TailwindCSS, ChakraUI, Vitest, Axios, Eslint, Date-fns, Commander, Yargs, PostgreSQL, SQLite and Prisma
   - Python: Poetry, FastAPI, Httpx, Rich, Pendulum, Flask, Peewee and SQLite
   - no tag: c++, docker, rust, postgresql, redis, mongodb, CUID, Vercel, Render
+- ⚙ [Settings](https://github.com/kauefraga/my-dotfiles) (in brief)
+  - vscode/nvim
+  - alacritty
+  - wsl (currently ubuntu)
+  - zsh + ohmyzsh
+  - fnm and poetry (node and python)
 
 <!-- Start repos section -->
 <details>
@@ -132,6 +138,7 @@
 
   <br />
 
+  <img align='center' alt='git icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg' />
   <img align='center' alt='ts icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg' />
   <img align='center' alt='nodejs icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg' />
   <img align='center' alt='expressjs icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' />
@@ -142,7 +149,7 @@
   <img align='center' alt='postgresql icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg' />
   <img align='center' alt='docker icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg' />
   <img align='center' alt='python icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' />
-  <img align='center' alt='rust icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg' />
+  <img align='center' alt='sqlite icon' height'35' width='45' src='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg' />
 </div>
 
 <br />
