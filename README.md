@@ -150,6 +150,7 @@
   <img align='center' alt='docker icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg' />
   <img align='center' alt='python icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' />
   <img align='center' alt='sqlite icon' height'35' width='45' src='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg' />
+  <img aling='center' alt='ubuntu icon' height='35' width='45' src='https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg' />
 </div>
 
 <br />
