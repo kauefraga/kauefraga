@@ -38,30 +38,29 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://github.com/kauefraga/quicky-pro
-        ject'>Quicky Project</a></td>
-      <td>Python, Click, Rich...</td>
-      <td>⚡ Set up a TS project as fast as you want</td>
+      <td><a href='https://github.com/kauefraga/fast-repo'>Fast Repo</a></td>
+      <td>Node/ts, enquirer, git interface, nanospinner, ansi-colors and tsx/tsup</td>
+      <td>⚡ Set up a TS project as fast as you want.</td>
     </tr>
     <tr>
       <td><a href='https://github.com/kauefraga/quicky-monitor'>Quicky Monitor</a></td>
       <td>Rust, sysinfo and termion</td>
-      <td>🔥 Blazingly fast system monitoring with Rust</td>
+      <td>🔥 Blazingly fast system monitoring with Rust.</td>
     </tr>
     <tr>
       <td><a href='https://github.com/kauefraga/learning-rust'>Learning Rust</a></td>
       <td>Rust</td>
-      <td>🦀 Trying out new language using Rust</td>
+      <td>🦀 Trying out new language using Rust.</td>
     </tr>
     <tr>
       <td><a href='https://github.com/kauefraga/learning-redis'>Learning Redis</a></td>
       <td>Node/TS, IORedis and CUID</td>
-      <td>🔴 Trying out key-value using Redis</td>
+      <td>🔴 Trying out key-value using Redis.</td>
     </tr>
      <tr>
       <td><a href='https://github.com/kauefraga/learning-postgres'>Learning Postgres</a></td>
       <td>Node/TS and Postgres</td>
-      <td>🐘 Trying out SQL using postgres "bare metal" (without orm)</td>
+      <td>🐘 Trying out SQL using postgres "bare metal" (without orm).</td>
     </tr>
      <tr>
       <td><a href='https://npm.im/quicky-server'>Quicky Server</a></td>
@@ -71,7 +70,7 @@
     <tr>
       <td><a href='https://crud-rest.onrender.com/v1'>CRUD Restful</a></td>
       <td>Node/TS, CUID, Express, Express-rate-limit and Vitest</td>
-      <td>🔮 A restful CRUD to put some effort</td>
+      <td>🔮 A restful CRUD to put some effort.</td>
     </tr>
     <tr>
       <td><a href='https://todo--list.vercel.app/'>To-do</a></td>
@@ -81,7 +80,7 @@
     <tr>
       <td><a href='https://developercoffee.vercel.app'>Dev Coffee</a></td>
       <td>NextJS, ChakraUI and ESLint</td>
-      <td>☕ Every developer need some coffee to be more professional</td>
+      <td>☕ Every developer need some coffee to be more professional.</td>
     </tr>
     <tr>
       <td><a href='https://kauefraga.vercel.app'>kauefraga.com</a></td>
@@ -94,39 +93,39 @@
       <td>☀ A CLI made to help you to find your wanted weather.</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/kauefraga/server-structure'>Server Structure</a></td>
-      <td>Node/TS, Express and api best practices</td>
-      <td>🏗 My "template" for server with express</td>
+      <td><a href='https://github.com/kauefraga/typed-js-lib'>Typed Javascript Library</a></td>
+      <td>Node/ts, tsx and vitest</td>
+      <td>📦 An easy and ready-to-publish library boilerplate with JavaScript.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/kauefraga/express-ts-api'>Express Typescript Api</a></td>
+      <td>Node/ts, express, express-rate-limit, cors, cuid and api best practices</td>
+      <td>🍃 A simple Expressjs boilerplate with Typescript. Ready for your APIs!</td>
     </tr>
     <tr>
       <td><a href='https://github.com/kauefraga/dowhilechallenge'>Do While (@rocketseat)</a></td>
       <td>Node/TS, Bcrypt and JWT</td>
-      <td>🚀 Implementation of ´register/login´ routes (API REST)</td>
+      <td>🚀 Implementation of ´register/login´ routes (API REST).</td>
     </tr>
     <tr>
       <td><a href='https://github.com/kauefraga/crud-graphql'>CRUD GraphQL</a></td>
       <td>Node/TS, GraphQL, best practices...</td>
-      <td>🌠 Simple CRUD to try graphql</td>
+      <td>🌠 Simple CRUD to try graphql.</td>
     </tr>
     <tr>
       <td><a href='https://github.com/kauefraga/zssn'>ZSSN</a></td>
       <td>Node/TS, Express, Prisma, Tests...</td>
-      <td>🧟 Zombie Survival Social Network (API Rest)</td>
+      <td>🧟 Zombie Survival Social Network (API Rest).</td>
     </tr>
     <tr>
       <td><a href='https://github.com/kauefraga/binarysearch-and-quicksort'>Binary Search (Algorithm)</a></td>
       <td>Node/TS and Python</td>
-      <td>🔎 Implementation of binary search in JavaScript and Python</td>
+      <td>🔎 Implementation of binary search in JavaScript and Python.</td>
     </tr>
     <tr>
-      <td><a href='https://fastapi--app.herokuapp.com'>Hello World (FastAPI)</a></td>
-      <td>Python, FastAPI and Heroku</td>
-      <td>🌎 A simple app made to learn FastAPI and Heroku</td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/kauefraga/go-viacep-cli'>Viacep CLI</a></td>
-      <td>Go and Viacep API</td>
-      <td>🗺 A CLI made to help you to find your wanted location. (At Brasil)</td>
+      <td><a href='https://learning-fastapi.onrender.com/v1'>Hello World (FastAPI)</a></td>
+      <td>Python, FastAPI and Render</td>
+      <td>📒 Learning FastAPI and python deployment.</td>
     </tr>
   </tbody>
 </table>
@@ -149,7 +148,7 @@
   <img align='center' alt='postgresql icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg' />
   <img align='center' alt='docker icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg' />
   <img align='center' alt='python icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' />
-  <img align='center' alt='sqlite icon' height'35' width='45' src='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg' />
+  <img align='center' alt='sqlite icon' height='35' width='45' src='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg' />
   <img aling='center' alt='ubuntu icon' height='35' width='45' src='https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg' />
 </div>
 
