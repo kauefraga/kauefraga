@@ -2,14 +2,18 @@
 export interface Props {
   href: string;
   text: string;
+  aria_label: string;
+  rel?: 'tag' | 'noopener' | 'author';
 }
 
-const { text, href } = Astro.props;
+const { text, href, rel, aria_label } = Astro.props;
 ---
 
 <a
   class="mx-2 p-1 md:hover:border-b-2 md:hover:border-b-blue-700"
   href={href}
+  rel={rel}
+  aria-label={aria_label}
 >
   {text}
 </a>
