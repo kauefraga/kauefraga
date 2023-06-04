@@ -1,23 +1,13 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Link from '../components/Link.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
 ---
 
 <!-- Choose black or slate-900 and write it in Layout -->
 
 <Layout title="Kauê Fraga Rodrigues">
-	<header class="flex justify-center text-slate-900 text-lg p-6 shadow-md md:justify-between md:text-xl">
-    <span>
-      <strong class="hidden md:inline md:text-2xl">
-        Kauê.dev
-      </strong>
-    </span>
-    <nav>
-      <Link href="#about" text="About" />
-      <Link href="mailto:kauefragarodrigues456@gmail.com" text="Contact" />
-      <Link href="https://" text="Projects" />
-    </nav>
-  </header>
+  <Header />
   <main class="flex flex-col my-8 items-center">
     <section class="flex flex-col items-center space-y-4">
       <h3 class="text-xl md:text-4xl font-semibold">Backend Typescript Developer</h3>
@@ -36,7 +26,10 @@ import Link from '../components/Link.astro';
       </div>
     </section>
 
-    <section class="flex flex-col justify-center items-center mt-4 w-full min-h-[15rem] bg-blue-700">
+    <section
+      id="about"
+      class="flex flex-col justify-center items-center mt-4 w-full min-h-[15rem] bg-blue-700"
+    >
       <h3 class="my-2 text-lg font-semibold text-white">
         Hi, im Kauê. Nice to meet you.
       </h3>
@@ -50,5 +43,9 @@ import Link from '../components/Link.astro';
         improving my skills at a time.
       </p>
     </section>
+
+    <!-- A card-based projects section -->
+    <p class="h-1 mt-4">Projects section coming soon...</p>
 	</main>
+  <Footer />
 </Layout>
