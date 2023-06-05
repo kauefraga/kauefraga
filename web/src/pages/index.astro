@@ -2,11 +2,10 @@
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import Card from '../components/Card.astro';
 
 const yearsSinceIBegin = new Date().getFullYear() - new Date(2021, 11, 1).getFullYear();
 ---
-
-<!-- Choose black or slate-900 and write it in Layout -->
 
 <Layout title="Kauê Fraga Rodrigues">
   <Header />
@@ -28,9 +27,37 @@ const yearsSinceIBegin = new Date().getFullYear() - new Date(2021, 11, 1).getFul
       </div>
     </section>
 
+    <span id="divider" class="m-6 w-3/12 border-2 border-t-zinc-300"></span>
+
+    <section
+      id="experiencies"
+      class="flex flex-col m-2 md:flex-row"
+    >
+      <Card
+        icon="⚡"
+        title="Lightning Fast HMR"
+        description="Hot Module Replacement (HMR) that stays fast regardless of app size."
+      />
+      <Card
+        icon="💡"
+        title="Instant Server Start"
+        description="On demand file serving over native ESM, no bundling required!"
+      />
+      <Card
+        icon="🌸"
+        title="Beautiful Code"
+        description="I write a simple and readable code."
+      />
+      <Card
+        icon="🔥"
+        title="Actually the best developer"
+        description="I could easily delete all your database accidentally, hire me!"
+      />
+    </section>
+
     <section
       id="about"
-      class="flex flex-col justify-center items-center mt-4 w-full min-h-[15rem] bg-blue-700"
+      class="flex flex-col justify-center items-center mt-4 w-full min-h-[15rem] bg-blue-600"
     >
       <h3 class="my-2 text-lg font-semibold text-white">
         Hi, im Kauê. Nice to meet you.
