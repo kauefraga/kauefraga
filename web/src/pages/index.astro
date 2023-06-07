@@ -4,15 +4,18 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import Card from '../components/Card.astro';
 
-const yearsSinceIBegin = new Date().getFullYear() - new Date(2021, 11, 1).getFullYear();
+// According to the github, Kauê's first interaction is on november 2021
+const yearsSinceBegin = new Date().getFullYear() - new Date(2021, 11, 1).getFullYear();
 ---
 
 <Layout title="Kauê Fraga Rodrigues">
   <Header />
   <main class="flex flex-col my-8 items-center">
     <section class="flex flex-col items-center space-y-4">
-      <h3 class="text-xl md:text-4xl font-semibold">Backend Typescript Developer</h3>
-      <!-- <p class="text-xs">almost fool stack rsrsrs</p> -->
+      <h1 class="text-xl md:text-4xl font-semibold">
+        Backend Typescript Developer
+      </h1>
+      <!-- <span class="text-xs">(almost fool stack 😅)</span> -->
       <p class="text-base w-64 flex-wrap md:text-lg md:w-auto md:flex-nowrap">
         I design and code production-quality APIs, and i love what i do.
       </p>
@@ -27,11 +30,44 @@ const yearsSinceIBegin = new Date().getFullYear() - new Date(2021, 11, 1).getFul
       </div>
     </section>
 
-    <span id="divider" class="m-6 w-3/12 border-2 border-t-zinc-300"></span>
+
+    <section
+      id="about"
+      class="flex flex-col md:flex-row justify-center items-center
+      mt-4 w-full min-h-[22rem] bg-blue-600 space-x-8"
+    >
+      <img
+        class="w-64 h-64 my-8 rounded-md"
+        width="250"
+        height="200"
+        src="/aboutme.png"
+        alt="Person using macbook pro on table"
+      />
+
+      <div class="flex flex-col items-center">
+        <h3 class="my-2 text-lg font-semibold text-white">
+          Hi, i'm Kauê. Nice to meet you!
+        </h3>
+        <p class="
+          text-gray-200 text-base text-justify
+          w-72 flex-wrap my-2
+          md:w-[25rem] md:text-lg md:flex-nowrap
+        ">
+          Since beginning my journey as a backend developer over
+          {yearsSinceBegin} years ago i have been through some difficulties,
+          like: which area should i choose? What i need to learn? How will i learn?
+          I'm quietly confident, naturally curious, and perpetually working on
+          improving my skills at a time.
+        </p>
+      </div>
+    </section>
 
     <section
       id="experiencies"
-      class="flex flex-col m-2 md:flex-row"
+      class="
+        flex flex-col m-2 max-w-screen-2xl justify-center flex-wrap
+        md:flex-row
+      "
     >
       <Card
         icon="⚡"
@@ -40,38 +76,42 @@ const yearsSinceIBegin = new Date().getFullYear() - new Date(2021, 11, 1).getFul
       />
       <Card
         icon="💡"
-        title="Instant Server Start"
-        description="On demand file serving over native ESM, no bundling required!"
+        title="Application Programming Interface (API)"
+        description="I have experience creating useful and fully-featured APIs!"
+      />
+      <Card
+        icon="🎨"
+        title="Command Line Interfaces"
+        description="I (strangely) adore develop fancy CLIs a lot."
       />
       <Card
         icon="🌸"
         title="Beautiful Code"
-        description="I write a simple and readable code."
+        description="I write a simple and readable code, following the best practices."
+      />
+      <Card
+        icon="📦"
+        title=""
+        description=""
+      />
+      <Card
+        icon="📚"
+        title="Sometimes Teacher, Always a Learner"
+        description="I think it's good to share knowledge and i'm everytime trying to learn something new."
       />
       <Card
         icon="🔥"
         title="Actually the best developer"
         description="I could easily delete all your database accidentally, hire me!"
       />
+      <Card
+        icon="🎮"
+        title="Things i like to do"
+        description="I enjoy playing video games and voleyball... Osu! (131h), Rocket League (575h), Warframe (582h)."
+      />
     </section>
 
-    <section
-      id="about"
-      class="flex flex-col justify-center items-center mt-4 w-full min-h-[15rem] bg-blue-600"
-    >
-      <h3 class="my-2 text-lg font-semibold text-white">
-        Hi, im Kauê. Nice to meet you.
-      </h3>
-      <p class="
-        text-gray-200
-        w-72 text-base flex-wrap text-justify my-2
-        md:w-[25rem] md:text-lg md:flex-nowrap
-      ">
-        Since beginning my journey as a backend developer over {yearsSinceIBegin} years ago.
-        Im quietly confident, naturally curious, and perpetually working on
-        improving my skills at a time.
-      </p>
-    </section>
+    <span id="divider" class="m-6 w-3/12 h-0.5 bg-zinc-400"></span>
 
     <!-- A card-based projects section -->
     <p class="h-1 mt-4">Projects section coming soon...</p>
