@@ -1,12 +1,14 @@
 ---
 // import { Icon } from 'astro-icon';
+
+const year = new Date().getFullYear();
 ---
 
-<footer class="flex flex-col items-center bottom-0 left-0 w-full bg-blue-600 text-white">
+<footer class="flex flex-col items-center bottom-0 left-0 w-full bg-[#1447B5] text-white">
   <header class="my-4">
-    <h2 class="mb-4 font-medium text-lg">
+    <h3 class="mb-4 font-medium text-lg">
       Kauê Fraga Rodrigues
-    </h2>
+    </h3>
     <!-- <nav class="mt-4">
       <KaueSocialIcon url="https://twitter.com/__kauefraga" />
       <KaueSocialIcon url="https://www.linkedin.com/in/kauefraga" />
@@ -27,7 +29,12 @@
       />
     </nav> -->
   </header>
-  <main class="my-4">
-    <p class="text-white">Handcrafted by me © {new Date().getFullYear()}</p>
+  <main class="my-4 text-center space-y-4">
+    <a
+      class="p-2 bg-[#011b52] rounded-md hover:underline"
+      href="https://github.com/kauefraga/kauefraga">
+      kauefraga
+    </a>
+    <p>Handcrafted by me © {year}</p>
   </main>
 </footer>
