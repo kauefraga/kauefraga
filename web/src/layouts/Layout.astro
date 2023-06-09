@@ -18,13 +18,17 @@ const { title } = Astro.props;
 		<link rel="icon" type="image/webp" href={icon} />
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
 		<title>{title}</title>
-    <meta name="description" content="This is Kauê's portfolio as a backend developer. It has his projects, contacts..." />
+    <meta name="description" content="This is Kauê's portfolio as a backend developer. It has his skills, projects, contacts..." />
 
     <meta property="og:title" content="Kauê Fraga Rodrigues: Backend developer" />
-    <meta property="og:description" content="This is Kauê's portfolio as a backend developer. It has his projects, contacts..." />
+    <meta property="og:description" content="This is Kauê's portfolio as a backend developer. It has his skills, projects, contacts..." />
     <meta property="og:image" content={icon} />
     <meta property="og:url" content="https://kauefraga.tech" />
     <meta property="og:type" content="website" />
+    <meta property="twitter:card" content={icon} />
+    <meta property="twitter:site" content="@__kauefraga" />
+
+    <meta property="theme-color" content="#1447B5" />
 	</head>
 	<body>
 		<slot />
