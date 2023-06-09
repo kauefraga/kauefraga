@@ -34,12 +34,12 @@ const yearsSinceBegin = new Date().getFullYear() - new Date(2021, 11, 1).getFull
     <section
       id="about"
       class="flex flex-col justify-center items-center w-full min-h-[22rem]
-      mt-4 p-6 bg-blue-600 md:flex-row md:space-x-8"
+      mt-4 p-6 bg-[#1447B5] md:flex-row md:space-x-8"
     >
       <img
         class="w-64 h-64 my-4 rounded-md"
         width="250"
-        height="200"
+        height="250"
         src="/about.webp"
         alt="Person using macbook pro on table"
       />
@@ -56,8 +56,7 @@ const yearsSinceBegin = new Date().getFullYear() - new Date(2021, 11, 1).getFull
           Since beginning my journey as a backend developer over
           {yearsSinceBegin} years ago i have been through some difficulties,
           like: which area should i choose? What i need to learn? How will i learn?
-          I'm quietly confident, naturally curious, and perpetually working on
-          improving my skills at a time.
+          My first "hello world" was in HTML/CSS and PHP.
         </p>
       </div>
     </section>
@@ -72,27 +71,42 @@ const yearsSinceBegin = new Date().getFullYear() - new Date(2021, 11, 1).getFull
       <Card
         icon="⚡"
         title="Blazingly Fast Applications"
-        description="I always prefer code readility and security over performance, however i don't leave performance aside by using best practices, researches, Google Lighthouse and benchmarks."
+        description="I prefer code readability and security over performance, however i don't leave performance aside by doing researches, benchmarks and using Google Lighthouse."
       />
       <Card
         icon="📦"
         title="Tech Stack"
-        description="I've worked with a variety of libraries/frameworks on Javascript (TS), some of them are Express, Next, Axios, Astro, Prisma, Fastify..."
+        description="I've worked with a variety of libraries/frameworks on Javascript (TS), some of them are Node, Express, Next, Axios, Astro, Prisma, Fastify, Dotenv, Eslint..."
       />
       <Card
         icon="💡"
         title="Application Programming Interface (API)"
-        description="I have experience creating useful and fully-featured APIs!"
+        description="I have experience creating useful and fully-featured APIs! I'm very familiar with HTTP methods, JSON, CORS and environment variables."
+      />
+      <Card
+        icon="🗃️"
+        title="Databases and Data Modelling"
+        description="I know how to create a table, read, write, update and delete data. I already used databases like Postgresql, MongoDB, Redis and ORMs such as Prisma (TS) and Peewee (Python)."
+      />
+      <Card
+      icon="🌸"
+      title="Beautiful Code"
+      description="I write a simple and readable code, following the best practices. I'm often reading about design patterns, DRY, SOLID, KISS, YAGNI and how to write better code."
       />
       <Card
         icon="🎨"
         title="Command Line Interfaces"
-        description="I (strangely) adore develop fancy CLIs a lot."
+        description="I (strangely) adore develop fancy CLIs a lot. Developers are essentially all the time working with terminal therefore i want to give it a engaging experience. I usually develop with Python or NodeJS."
       />
       <Card
-        icon="🌸"
-        title="Beautiful Code"
-        description="I write a simple and readable code, following the best practices."
+        icon="📰"
+        title="Indispensable Frontend Knowledge"
+        description="As you can see, i cognize some frontend stuff like HTML, SEO, CDN, CSS and Markdown. Don't say to them, although these cards are inspired by the vitejs.dev *little laugh*."
+      />
+      <Card
+        icon="⚗️"
+        title="Tests, tests, and more tests"
+        description="I'm not constantly writing tests but i'm trying to improve. When i code tests, normally i use Ava, Jest or Vitest (JS)."
       />
       <Card
         icon="📚"
