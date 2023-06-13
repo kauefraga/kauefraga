@@ -164,6 +164,4 @@
   <a href='mailto:kauefragarodrigues456@gmail.com' target='_blank' rel='noopener norefferer'>
     <img src='https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue' />
   </a>
-
-  <img alt='Snake animation' src='https://github.com/kauefraga/kauefraga/blob/output/github-contribution-grid-snake.svg' />
 </div>
