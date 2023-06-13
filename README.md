@@ -1,5 +1,5 @@
 <h1 align="center">
-  💙 Hii! My name is <a href='https://github.com/kauefraga'>Kauê</a> and i am Backend Developer 💙
+  💙 Hii! My name is <a href='https://kauefraga.tech'>Kauê</a> and i am Backend Developer 💙
 </h1>
 
 ### 💫 Curiosities
