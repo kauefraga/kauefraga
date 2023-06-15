@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
+import Container from '../components/Container.astro';
 import Footer from '../components/Footer.astro';
 import Card from '../components/Card.astro';
 
@@ -10,7 +11,7 @@ const yearsSinceBegin = new Date().getFullYear() - new Date(2021, 11, 1).getFull
 
 <Layout title="Kauê Fraga Rodrigues">
   <Header />
-  <main class="flex flex-col my-8 items-center">
+  <Container>
     <section class="flex flex-col items-center space-y-4">
       <h1 class="text-xl md:text-4xl font-semibold">
         Backend Typescript Developer
@@ -129,6 +130,6 @@ const yearsSinceBegin = new Date().getFullYear() - new Date(2021, 11, 1).getFull
 
     <!-- A card-based projects section -->
     <p class="h-1 mt-4">Projects section coming soon...</p>
-	</main>
+	</Container>
   <Footer />
 </Layout>
