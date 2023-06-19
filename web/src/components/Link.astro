@@ -10,7 +10,10 @@ const { text, href, rel, aria_label } = Astro.props;
 ---
 
 <a
-  class="mx-2 p-1 md:hover:border-b-2 md:hover:border-b-blue-700"
+  class="
+    mx-2 p-1
+    md:transition md:duration-200 md:hover:border-b-2 md:hover:border-b-blue-700
+  "
   href={href}
   rel={rel}
   aria-label={aria_label}
