@@ -4,25 +4,25 @@
 
 ### 💫 Curiosities
 
-- 🌱 I’m learning: learning [`Python`](https://www.python.org), mastering [`Typescript`](https://www.typescriptlang.org), tests, good practices and so on...
-- 😐 I have a **love/hate** relationship with Programming
-- ⚡ Fun fact: i prefer milk coffee than tradicional
+- 🌱 I’m currently using [`Python`](https://www.python.org) for scripting and learning about databases, good practices and so on...
+- 😐 I have a **love/hate** relationship with Programming.
+- ⚡ A fun fact about me is that i prefer milk coffee than a traditional one.
 - ☕ Hobbies
-  - I like to automate stuff (generally with _Python_), CLIs that help me with something (_DOS/Pwsh/Node/Python_)
-  - I really enjoy to play Osu! (131h), Rocket League (575h), Warframe (582h)...
-  - Learn music lyrics and sing as crazy as i can while i groove (try to dance)
+  - I like to automate stuff (generally with _Python_) and develop CLIs that help me with something (usually with _DOS/Pwsh/Node/Python_).
+  - I really enjoy to play Osu! (131h), Rocket League (575h), Warframe (582h) and lately i've been playing Phasmophobia (52h)...
+  - Learn music lyrics and sing as crazy as i can while i groove (try to dance).
   - Try to install any distro (The last ones were kali, archcraft, arch, manjaro...)
-  - Trying to put something out of the box
+  - Trying to put something out of the box.
 - 🧙‍ Technologies/libraries
-  - JavaScript(ts): Node, Pnpm, Express, Fastify, Next, TailwindCSS, ChakraUI, Vitest, Axios, Eslint, Date-fns, Commander, Yargs, PostgreSQL, SQLite and Prisma
-  - Python: Poetry, FastAPI, Httpx, Rich, Pendulum, Flask, Peewee and SQLite
-  - no tag: c++, docker, rust, postgresql, redis, mongodb, CUID, Vercel, Render
-- ⚙ [Settings](https://github.com/kauefraga/my-dotfiles) (in brief)
+  - JavaScript(ts): Node, Pnpm, Express, Fastify, Next, TailwindCSS, ChakraUI, Vitest, Axios, Eslint, Date-fns, Commander, Yargs, PostgreSQL, SQLite and Prisma...
+  - Python: Poetry, FastAPI, Httpx, Rich, Pendulum, Flask, Peewee and SQLite...
+  - no tag: c++, docker, rust, postgresql, redis, mongodb, CUID, Vercel, Render...
+<!-- - ⚙ [Settings](https://github.com/kauefraga/my-dotfiles) (in brief)
   - vscode/nvim
   - alacritty
   - wsl (currently ubuntu)
   - zsh + ohmyzsh
-  - fnm and poetry (node and python)
+  - fnm and poetry (node and python) -->
 
 <!-- Start repos section -->
 <details>
@@ -38,9 +38,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://github.com/kauefraga/fast-repo'>Fast Repo</a></td>
+      <td><a href='https://github.com/kauefraga/fast-boilerplate'>Fast Boilerplate</a></td>
       <td>Node/ts, enquirer, git interface, nanospinner, ansi-colors and tsx/tsup</td>
-      <td>⚡ Set up a TS project as fast as you want.</td>
+      <td>⚡ Set up a TS project as fast as you want to.</td>
     </tr>
     <tr>
       <td><a href='https://github.com/kauefraga/quicky-monitor'>Quicky Monitor</a></td>
@@ -133,9 +133,7 @@
 <!-- End repos section -->
 
 <div align='center' style='display: inline_block;'>
-  <h1>💻 Tech Stack 💻</h1>
-
-  <br />
+  <h2>💻 Tech Stack 💻</h2>
 
   <img align='center' alt='git icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg' />
   <img align='center' alt='ts icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg' />
@@ -148,8 +146,8 @@
   <img align='center' alt='postgresql icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg' />
   <img align='center' alt='docker icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg' />
   <img align='center' alt='python icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' />
-  <img align='center' alt='sqlite icon' height='35' width='45' src='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg' />
-  <img aling='center' alt='ubuntu icon' height='35' width='45' src='https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg' />
+  <img align='center' alt='sqlite icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg' />
+  <img align='center' alt='ubuntu icon' height='35' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg' />
 </div>
 
 <br />
