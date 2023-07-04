@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import Container from '../components/Container.astro';
 import Footer from '../components/Footer.astro';
-import Card from '../components/Card.astro';
+import Card from '../components/cards/SkillCard.astro';
 
 // According to the github, Kauê's first interaction is on november 2021
 const yearsSinceBegin = new Date().getFullYear() - new Date(2021, 11, 1).getFullYear();
@@ -30,7 +30,6 @@ const yearsSinceBegin = new Date().getFullYear() - new Date(2021, 11, 1).getFull
         />
       </div>
     </section>
-
 
     <section
       id="about"
@@ -116,20 +115,27 @@ const yearsSinceBegin = new Date().getFullYear() - new Date(2021, 11, 1).getFull
       />
       <Card
         icon="🔥"
-        title="Actually the best developer"
-        description="I could easily delete all your database accidentally, hire me!"
+        title="With Great Power Comes Great Responsability"
+        description="I am now learning about C++ programming language and it has a meaningful memory control that opens for performance improvements. Also, make you learn low level concepts such as pointers, memory addresses, stack, heap, etc."
       />
       <Card
         icon="🎮"
         title="Things i like to do"
-        description="I enjoy playing video games and voleyball... Osu! (131h), Rocket League (575h), Warframe (582h)."
+        description="I enjoy playing video games and voleyball... Osu! (131h), Rocket League (575h), Warframe (582h) and Phasmophobia (52h) recently."
       />
     </section>
 
     <span id="divider" class="m-6 w-3/12 h-0.5 bg-zinc-400"></span>
 
-    <!-- A card-based projects section -->
-    <p class="h-1 mt-4">Projects section coming soon...</p>
+    <a
+      class="
+        p-4 my-2 text-white bg-blue-800 rounded-md
+        hover:underline hover:bg-blue-700
+      "
+      href="https://kauefraga.tech/projects"
+    >
+      Projects
+    </a>
 	</Container>
   <Footer />
 </Layout>
