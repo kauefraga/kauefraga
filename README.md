@@ -4,7 +4,7 @@
 
 ### 💫 Curiosities
 
-- 🌱 I’m currently learning [`c++`](https://www.learncpp.com), database related stuff, good practices and so on...
+- 🌱 I’m currently learning [`Golang`](https://go.dev) and creating some projects...
 - 😐 I have a **love/hate** relationship with programming.
 - ⚡ A fun fact about me is that i prefer milk coffee than a traditional one.
 - ☕ Hobbies
@@ -19,12 +19,6 @@
   - Databases: MongoDB, PostgreSQL, SQLite, Redis and in-memory.
   - C++: standard library.
   - no tag: docker, rust, Vercel, Render...
-<!-- - ⚙ [Settings](https://github.com/kauefraga/my-dotfiles) (in brief)
-  - vscode/nvim
-  - alacritty
-  - wsl (currently ubuntu)
-  - zsh + ohmyzsh
-  - fnm and poetry (node and python) -->
 
 <!-- Start repos section -->
 <details>
