@@ -1,6 +1,6 @@
 ### 💫 Curiosities
 
-- 🌱 Currently, i am mastering [`Golang`](https://go.dev) basics and drawing...
+- 🌱 I am always learning something new. Recently i have been learning Golang and Java.
 - 😅 A fun fact about me is that i prefer milk coffee or tea instead of a traditional coffee.
 - ☕ Hobbies
   - I like to automate stuff (generally with _Python_) and develop CLIs that help me with something (usually with _DOS, Pwsh, Node, Python_).
