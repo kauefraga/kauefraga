@@ -13,9 +13,9 @@ const { url, name } = Astro.props;
   href={url}
   class="
     block rounded-full w-11 h-11 p-2
-    border-2 border-gray-400
-    hover:bg-black hover:border-black
-    "
+    text-black transition-colors
+    hover:text-white hover:bg-black
+  "
 >
   <Icon name={name} />
 </a>
