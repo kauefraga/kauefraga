@@ -9,15 +9,14 @@ const { text, href } = Astro.props;
 
 <li
   class="
-    w-64 m-4 bg-zinc-300 rounded-md
-    shadow-md
-    hover:bg-blue-700 hover:text-white hover:transition-shadow
+    w-64 p-1 bg-zinc-300 rounded-md
+    shadow transition-colors
+    hover:bg-blue-700 hover:text-white
   "
 >
   <a
     href={href}
     target="_blank"
-    rel="noopener noreferrer"
     class="p-4 block"
   >
     {text}
