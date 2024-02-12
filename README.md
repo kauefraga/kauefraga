@@ -26,6 +26,6 @@ This year (2024) I'm focused on networking and learning about Vuejs, Golang and 
 - [Linkedin](https://linkedin.com/in/kauefraga)
 - [Email](mailto:kauefragarodrigues456@gmail.com)
 
-Let's chat about anything! Preferably in Brazilian Portuguese (🇧🇷), but I'll try my best if you only speak English (🇺🇸).
+Let's chat about anything! Preferably in Brazilian Portuguese (🇧🇷), but we can talk in English too (🇺🇸).
 
 > "It's not what the world holds for you, it's what you bring to it." - Anne Shirley (from Anne with an e)
