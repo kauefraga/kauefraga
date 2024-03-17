@@ -23,7 +23,6 @@ This year (2024) I'm focused on networking and learning about Vuejs, Golang and 
 
 #### ✉ Finally, you can reach me at:
 
-- Discord: [rustykaue](discordapp.com/users/662510158584217620)
 - LinkedIn: [kauefraga](https://linkedin.com/in/kauefraga)
 - Twitter/X: [rkauefraga](https://twitter.com/rkauefraga)
 
