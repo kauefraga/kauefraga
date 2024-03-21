@@ -17,8 +17,10 @@ This year (2024) I'm focused on networking and learning about Vuejs, Golang and 
 - [kauefraga.tech](https://kauefraga.tech) & [kauefraga.art](https://kauefraga.art)
 - [Ping Pong](https://github.com/kauefraga/ping-pong)
 - [Learning repositories](https://github.com/kauefraga?tab=repositories&q=learning)
-- [Commission Tracker](https://github.com/kauefraga/commission-tracker)
+- [Commission Tracker](https://comms-tracker.netlify.app)
+- [Fukurou](https://github.com/kauefraga/fukurou)
 - [Ariprog](https://github.com/kauefraga/ariprog)
+- [Esquilo Aniquilador](https://github.com/kauefraga/esquilo-aniquilador)
 - [Anime Archive](https://github.com/kauefraga/anime-archive)
 
 #### ✉ Finally, you can reach me at:
