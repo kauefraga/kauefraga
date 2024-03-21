@@ -7,10 +7,10 @@ This year (2024) I'm focused on networking and learning about Vuejs, Golang and 
 #### 🤹‍♂️ Some of my hobbies are:
 
 - Automating random stuff
-- Drawing (pencil/eraser and digitally)
+- Drawing things (pencil/eraser and digitally)
 - Playing videogames (Fortnite, Rocket League, Phasmophobia, Osu, Warframe and recently Necesse)
 - Listening to music
-- Practice volleyball
+- Practicing volleyball
 
 #### ⭐ What I made:
 
