@@ -14,7 +14,7 @@ This year (2024) I'm focused on networking and learning about Vuejs, Golang and 
 
 #### ⭐ What I made:
 
-- [kauefraga.tech](https://kauefraga.tech) & [kauefraga.art](https://kauefraga.art)
+- [kauefraga.art](https://kauefraga.art)
 - [Ping Pong](https://github.com/kauefraga/ping-pong)
 - [Learning repositories](https://github.com/kauefraga?tab=repositories&q=learning)
 - [Commission Tracker](https://comms-tracker.netlify.app)
