@@ -17,6 +17,7 @@ This year (2024) I'm focused on networking and learning about Vuejs, Golang and 
 - [Ruke](https://github.com/kauefraga/Ruke)
 - [Ariprog](https://github.com/kauefraga/ariprog)
 - [kauefraga.art](https://kauefraga.art)
+- [Yalt](https://kauefraga.github.io/yalt/)
 - [Ping Pong](https://github.com/kauefraga/ping-pong)
 - [Learning repositories](https://github.com/kauefraga?tab=repositories&q=learning)
 - [Commission Tracker](https://comms-tracker.netlify.app)
