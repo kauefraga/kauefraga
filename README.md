@@ -14,15 +14,15 @@ This year (2024) I'm focused on networking and learning about Vuejs, Golang and 
 
 #### ⭐ What I made:
 
-- [Ruke](https://github.com/kauefraga/Ruke)
-- [Ariprog](https://github.com/kauefraga/ariprog)
-- [kauefraga.art](https://kauefraga.art)
-- [My link tree](https://kauefraga.github.io/yalt/)
-- [My blog](https://kauefraga.github.io/blog/)
-- [Ping Pong](https://github.com/kauefraga/ping-pong)
-- [Learning repositories](https://github.com/kauefraga?tab=repositories&q=learning)
-- [Commission Tracker](https://comms-tracker.netlify.app)
-- [Fukurou](https://github.com/kauefraga/fukurou)
+- [Ruke](https://github.com/kauefraga/Ruke) (dev tool, rust)
+- [Ariprog](https://github.com/kauefraga/ariprog) (math lib, rust)
+- [kauefraga.art](https://kauefraga.art) (website, typescript)
+- [My link tree](https://kauefraga.github.io/yalt/) (website, html/css)
+- [My blog](https://kauefraga.github.io/blog/) (website, hugo/markdown)
+- [Ping Pong](https://github.com/kauefraga/ping-pong) (game, c++)
+- [Commission Tracker](https://comms-tracker.netlify.app) (website, typescript)
+- [Fukurou](https://github.com/kauefraga/fukurou) (browser extension, html/css) 
+- ["Learning something"](https://github.com/kauefraga?tab=repositories&q=learning) (repositories)
 
 #### ✉ Finally, you can reach me at:
 
