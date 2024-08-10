@@ -1,27 +1,22 @@
 ## Hiii 👋
 
-My name is Kauê. I'm 16 years old and I enjoy writing code since I was 13. Very curious and self-taught, I keep seeking for the field that I belong to. I've been on the front end, back end, game development and I liked all of them... I suppose the joy is in the computer and how it fascinates me.
+My name is Kauê. I'm 16 years old and I really like to develop software solutions, specially to make others' lives easier. I started to study web basics (html, css, javascript, http...) 3 years ago and today I consider myself a back-end developer, although I can make some front-end stuff.
 
-This year (2024) I'm focused on networking and learning about Vuejs, Golang and PostgreSQL. I wanna write some technical articles (🇧🇷) over the year and share them at [my personal blog](https://kauefraga.github.io/blog/), [TabNews](http://tabnews.com.br/kauefraga) and [Dev.to](https://dev.to/kauefraga).
-
-#### 💜 Some of my hobbies are:
-
-- Automating random stuff
-- Drawing things (pencil/eraser and digitally)
-- Playing videogames (Fortnite, Rocket League, Phasmophobia, Osu, Warframe and recently Necesse)
-- Listening to music
-- Practicing volleyball
+This year (2024) I'm focused on networking and learning more about React, Go and PostgreSQL. Also, I wanna write some technical articles (🇧🇷) over the year and share them at [my blog](https://kauefraga.netlify.app/blog/), [TabNews](https://www.tabnews.com.br/kauefraga) and [Dev.to](https://dev.to/kauefraga).
 
 #### ⭐ What I made:
 
-- [Ruke](https://github.com/kauefraga/Ruke) (dev tool, rust)
-- [Ariprog](https://github.com/kauefraga/ariprog) (math lib, rust)
-- [kauefraga.art](https://kauefraga.art) (website, typescript)
-- [My link tree](https://kauefraga.github.io/yalt/) (website, html/css)
-- [My blog](https://kauefraga.github.io/blog/) (website, hugo/markdown)
-- [Ping Pong](https://github.com/kauefraga/ping-pong) (game, c++)
-- [Commission Tracker](https://comms-tracker.netlify.app) (website, typescript)
-- [Fukurou](https://github.com/kauefraga/fukurou) (browser extension, html/css) 
+- [My personal website](https://kauefraga.netlify.app/) using astro (website -_-)
+- [Ruke](https://github.com/kauefraga/ruke) using rust (dev tool)
+- [Anubis](https://github.com/kauefraga/anubis) using go (load balancer/scaling solution)
+- [Ariprog](https://github.com/kauefraga/ariprog) using rust (math lib)
+- [A discord bot for my server](https://github.com/kauefraga/lau-discord-bot) using go (bot)
+- Contributed to [Gorvus](https://github.com/FelipeMCassiano/gorvus) (dev tool built with go)
+- [My art website](https://kauefraga.art) using typescript and nextjs (website)
+- [Yet Another Link Tree](https://kauefraga.github.io/yalt/) using html/css (website)
+- [Ping Pong](https://github.com/kauefraga/ping-pong) using c++ and raylib (game)
+- [Commission Tracker](https://comms-tracker.netlify.app) using typescript and vuejs (website)
+- [Fukurou](https://github.com/kauefraga/fukurou) using html/css (browser extension) 
 - ["Learning something"](https://github.com/kauefraga?tab=repositories&q=learning) (repositories)
 
 #### ✉ Finally, you can reach me at:
