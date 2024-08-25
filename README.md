@@ -11,13 +11,14 @@ This year (2024) I'm focused on networking and learning more about React, Go and
 - [Anubis](https://github.com/kauefraga/anubis) using go (load balancer/scaling solution)
 - [Ariprog](https://github.com/kauefraga/ariprog) using rust (math lib)
 - [A discord bot for my server](https://github.com/kauefraga/lau-discord-bot) using go (bot)
-- Contributed to [Gorvus](https://github.com/FelipeMCassiano/gorvus) (dev tool built with go)
 - [My art website](https://kauefraga.art) using typescript and nextjs (website)
 - [Yet Another Link Tree](https://kauefraga.github.io/yalt/) using html/css (website)
 - [Ping Pong](https://github.com/kauefraga/ping-pong) using c++ and raylib (game)
 - [Commission Tracker](https://comms-tracker.netlify.app) using typescript and vuejs (website)
-- [Fukurou](https://github.com/kauefraga/fukurou) using html/css (browser extension) 
+- [Fukurou](https://github.com/kauefraga/fukurou) using html/css (browser extension)
 - ["Learning something"](https://github.com/kauefraga?tab=repositories&q=learning) (repositories)
+- Contributed to [Gorvus](https://github.com/FelipeMCassiano/gorvus) (dev tool built with go)
+- Contributed to [TestRoute](https://github.com/cherryramatisdev/testroute) (dev tool built with rust)
 
 #### ✉ Finally, you can reach me at:
 
