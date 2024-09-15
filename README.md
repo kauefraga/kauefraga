@@ -6,28 +6,24 @@ This year (2024) I'm focused on networking and learning more about React, Go and
 
 #### ⭐ What I made:
 
-- [My personal website & blog](https://kauefraga.dev) using astro (website -_-)
-- [Themis](https://themis.kauefraga.dev) using typescript and nextjs (website)
-- [Ruke](https://github.com/kauefraga/ruke) using rust (dev tool)
-- [Pavus](https://github.com/kauefraga/pavus) using go (dev tool)
-- [Anubis](https://github.com/kauefraga/anubis) using go (load balancer/scaling solution)
-- [Ariprog](https://github.com/kauefraga/ariprog) using rust (math lib)
-- [A discord bot for my server](https://github.com/kauefraga/lau-discord-bot) using go (bot)
-- [My art website](https://kauefraga.art) using typescript and nextjs (website)
-- [Yet Another Link Tree](https://kauefraga.github.io/yalt/) using html and css (website)
-- [Ping Pong](https://github.com/kauefraga/ping-pong) using c++ and raylib (game)
-- [Commission Tracker](https://comms-tracker.netlify.app) using typescript and vuejs (website)
-- [Fukurou](https://github.com/kauefraga/fukurou) using html, css and javascript (browser extension)
-- [Learning _something_](https://github.com/kauefraga?tab=repositories&q=learning) (repositories)
-- [Node Typescript Server](https://github.com/kauefraga/node-typescript-server) using typescript and koa (template)
+- [My personal website & blog](https://kauefraga.dev)
+- [Themis](https://themis.kauefraga.dev) - [Bluesky](https://bsky.app) profile analyser for brazilians
+- [Ruke](https://github.com/kauefraga/ruke) - developer tool that aims to facilitate script execution in projects
+- [Pavus](https://github.com/kauefraga/pavus) - next-gen markdown tool
+- [Anubis](https://github.com/kauefraga/anubis) - powerful and configurable load balancer
+- [Ariprog](https://github.com/kauefraga/ariprog) - math lib that solves arithmetic progressions problems
+- [A discord bot](https://github.com/kauefraga/lau-discord-bot) that picks a random game to play for my server
+- [Polvinho](https://polvinho.vercel.app) - work list to help brazilian freelancers to organize their work
+- [Learning _something_](https://github.com/kauefraga?tab=repositories&q=learning) repositories where I share what I learned
+- [Node Typescript Server](https://github.com/kauefraga/node-typescript-server) - template for servers using typescript and koa
 
 #### 🤝 Open source contributions:
 
-- [Gorvus](https://github.com/FelipeMCassiano/gorvus), a dev tool built with go
-- [TestRoute](https://github.com/cherryramatisdev/testroute), a dev tool built with rust
-- [Computaria](https://gitlab.com/computaria/blog), a dev blog built with jekyll
-- [Feh](https://github.com/zhaoworks/feh), a fastify plugin built with typescript
-- [Rinha de back-end](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - [Esquilo Aniquilador](https://github.com/kauefraga/esquilo-aniquilador), a funny competition
+- [Gorvus](https://github.com/FelipeMCassiano/gorvus) - a dev tool built with go
+- [TestRoute](https://github.com/cherryramatisdev/testroute) - a dev tool built with rust
+- [Computaria](https://gitlab.com/computaria/blog) - a dev blog built with jekyll
+- [Feh](https://github.com/zhaoworks/feh) - a fastify plugin built with typescript
+- [Rinha de Backend](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) / [Esquilo Aniquilador](https://github.com/kauefraga/esquilo-aniquilador) - a funny back end challenge/competition
 
 #### ✉ Finally, you can reach me at:
 
