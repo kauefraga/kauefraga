@@ -17,13 +17,17 @@ This year (2024) I'm focused on networking and learning more about React, Go and
 - [Yet Another Link Tree](https://kauefraga.github.io/yalt/) using html and css (website)
 - [Ping Pong](https://github.com/kauefraga/ping-pong) using c++ and raylib (game)
 - [Commission Tracker](https://comms-tracker.netlify.app) using typescript and vuejs (website)
-- [Fukurou](https://github.com/kauefraga/fukurou) using html and css (browser extension)
+- [Fukurou](https://github.com/kauefraga/fukurou) using html, css and javascript (browser extension)
 - [Learning _something_](https://github.com/kauefraga?tab=repositories&q=learning) (repositories)
 - [Node Typescript Server](https://github.com/kauefraga/node-typescript-server) using typescript and koa (template)
-- Contributed to [Gorvus](https://github.com/FelipeMCassiano/gorvus) (dev tool built with go)
-- Contributed to [TestRoute](https://github.com/cherryramatisdev/testroute) (dev tool built with rust)
-- Contributed to [Computaria](https://gitlab.com/computaria/blog) (dev blog built with jekyll)
-- Contributed to [Feh](https://github.com/zhaoworks/feh) (fastify plugin built with typescript) 
+
+#### 🤝 Open source contributions:
+
+- [Gorvus](https://github.com/FelipeMCassiano/gorvus), a dev tool built with go
+- [TestRoute](https://github.com/cherryramatisdev/testroute), a dev tool built with rust
+- [Computaria](https://gitlab.com/computaria/blog), a dev blog built with jekyll
+- [Feh](https://github.com/zhaoworks/feh), a fastify plugin built with typescript
+- [Rinha de back-end](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - [Esquilo Aniquilador](https://github.com/kauefraga/esquilo-aniquilador), a funny competition
 
 #### ✉ Finally, you can reach me at:
 
