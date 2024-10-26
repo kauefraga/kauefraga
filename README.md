@@ -8,5 +8,6 @@ I'm focused on networking and building open source tools. Also, I write technica
 
 - LinkedIn: [kauefraga](https://linkedin.com/in/kauefraga)
 - Bluesky: [kauefraga.dev](https://bsky.app/profile/kauefraga.dev)
+- Twitter: [rkauefraga](https://x.com/rkauefraga)
 
 > "It's not what the world holds for you, it's what you bring to it."
