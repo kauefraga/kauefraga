@@ -1,6 +1,6 @@
 ## Hii 👋
 
-My name is Kauê. I'm 17 years old and I really like to **develop software solutions**, specially **to make others' lives easier**. I started to study web basics 4 years ago, and I have already worked as a back-end developer since then. Building robust back-end systems is what I'm interested in, I also have created some websites and can work on front-end too.
+My name is Kauê. I really like to **develop software solutions**, specially **to make others' lives easier**. I started to study web basics 4 years ago, and I have already worked as a back-end developer since then. Building robust back-end systems is what I'm interested in, I also have created some websites and can work on front-end too.
 
 I work with the tech below. Check my devfolio in [kauefraga.dev/projects](https://kauefraga.dev/projects).
 
