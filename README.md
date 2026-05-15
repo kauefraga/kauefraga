@@ -1,12 +1,14 @@
-## Hii 👋
+Hii, my name is Kauê! I really like to **develop software solutions**, specially to ease some process for someone. I started to study web basics 5 years ago, and I have already worked as a back-end developer since then. **Building robust back-end systems is what I'm interested in**, although I also have created some websites and can work on front-end too.
 
-My name is Kauê. I really like to **develop software solutions**, specially to ease some process for someone. I started to study web basics 5 years ago, and I have already worked as a back-end developer since then. Building robust back-end systems is what I'm interested in, although I also have created some websites and can work on front-end too.
+I have experience working with the technologies below.
 
-I work with the tech below. Check my devfolio in [kauefraga.dev/projects](https://kauefraga.dev/projects).
+```txt
+TypeScript ⋅ Node.js ⋅ PostgreSQL ⋅ SQLite ⋅ Go ⋅ Docker ⋅ Git
+```
 
-[![Icons of the technologies I know](https://skillicons.dev/icons?i=ts,nodejs,postgres,go,docker,git)](https://skillicons.dev)
+Check my devfolio in [kauefraga.dev/projects](https://kauefraga.dev/projects).
 
-Also, I write technical articles and I post them in [my blog](https://kauefraga.dev/blog/), [TabNews](https://www.tabnews.com.br/kauefraga) and [Dev.to](https://dev.to/kauefraga) (🇧🇷).
+You can find some technical articles that I wrote in [my blog](https://kauefraga.dev/blog/), [TabNews](https://www.tabnews.com.br/kauefraga) and [Dev.to](https://dev.to/kauefraga) (in brazilian portuguese 🇧🇷).
 
 #### You can reach me at:
 
